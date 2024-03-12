@@ -1,1 +1,4 @@
-print(5 + 9)
+print("Assalomu alaykum")
+print("Assalomu alaykum")
+print("Assalomu alaykum")
+print("Assalomu alaykum")
