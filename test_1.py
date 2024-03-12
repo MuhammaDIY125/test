@@ -1,4 +1,1 @@
-print("Assalomu alaykum")
-print("Assalomu alaykum")
-print("Assalomu alaykum")
-print("Assalomu alaykum")
+print(5 + 9)
